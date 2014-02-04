@@ -6,7 +6,7 @@ operacion_aritmetica_simple();
 function operacion_aritmetica_simple() {
 
 //Operación aritmética simple
-    echo "Introduce el número A";
+    echo "Introduce el número A\n";
     $A = leer_linea();
     echo "Introduce el número B";
     $B = leer_linea();
